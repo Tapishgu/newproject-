@@ -1,0 +1,121 @@
+.bg-container{
+   background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg');
+   background-size: cover;
+   height: 100vh;
+}
+.container-card{
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #ffffff;
+    padding:5px;
+}
+
+.heading{
+    font-family: Roboto;
+    font-size: 24px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+.paragarph{
+    font-family: Roboto;
+    font-size: 18px;
+    color: #808080;
+    font-weight: 600;
+}
+.button{
+    background-color: #25b1c2;
+    color: #ffffff;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border-width: 0px;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+
+.Favourite-places-bg-container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png');
+    background-size: cover;
+    height: 100vh;
+    padding: 24px;
+}
+
+.main-heading{
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Favourite-container-cards{
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+.Descrpition{
+    color: gray;
+    font-family: Roboto;
+    font-size: 16px;
+}
+.favourite-heading{
+    font-family: Roboto;
+    color: black;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.favourite-images{
+    width: 80px;
+    height: 100px;
+}
+.favourite-places-cards-text-container{
+    margin-right: 15px;
+
+}
+
+.detail-view-bg-container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    height: 150vh;
+    padding: 28px;
+}
+
+.sub-heading{
+    font-family: Roboto;
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 24px;
+    text-align: center;
+}
+
+.Detailed-view-container-cards{
+    background-color: #ffffff;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 24px;
+}
+
+.detailed-heading{
+    font-family: Roboto;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.paragarph{
+    color: grey;
+    font-family: Roboto;
+    font-size: 16px;
+
+}
+
+.detailed-view-card-text-container{
+    padding: 16px;
+}
